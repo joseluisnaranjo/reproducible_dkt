@@ -1,0 +1,11 @@
+# Ignore the large dataset file
+data/assistments_2009_2010_full_dataset.csv
+
+# Ignore other common files and directories
+*.log
+*.tmp
+*.swp
+node_modules/
+dist/
+build/
+

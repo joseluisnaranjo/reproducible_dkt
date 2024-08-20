@@ -1,0 +1,10 @@
+name: env_reproducible_dkt
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+   - pip:
+    - numpy
+    - tensorflow
+    - scikit-learn
+prefix: /home/jolunavi/miniconda3/envs/env_reproducible_dkt
